@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA2B3FF&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Back-end)](https://git.io/typing-svg)
 
-<img align="right" src="https://i.picasion.com/pic92/bac78e529b4cd3737bb42c6511bb4567.gif" width="220px"> 
+<img align="right" src="https://i.picasion.com/pic92/5f78f74dc153530840600c0e73fcc132.gif" width="220px"> 
 
 <div align="left">
 <p><img src="https://media.giphy.com/media/8MqjoSyTj7w6wrhyTB/giphy.gif" width="30px" align="center"> 👾 Idade: 24 anos</p>
