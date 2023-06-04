@@ -7,8 +7,8 @@
 <div align="left">
 <p><img src="https://media.giphy.com/media/8MqjoSyTj7w6wrhyTB/giphy.gif" width="30px" align="center"> 👾 Idade: 24 anos</p>
 <p><img src="https://media.giphy.com/media/8MqjoSyTj7w6wrhyTB/giphy.gif" width="30px" align="center"> 😊 Pronomes: Ela/Dela</p>
-<p><img src="https://media.giphy.com/media/8MqjoSyTj7w6wrhyTB/giphy.gif" width="30px" align="center"> 🎓 Sou graduada em Análise e Desenvolvimento de Sistemas e atuei na área entre 01/2020 - 11/2022 como DEV Junior.</p>
-<p><img src="https://media.giphy.com/media/8MqjoSyTj7w6wrhyTB/giphy.gif" width="30px" align="center"> 💻 Estive em uma equipe focada na verificação e correção de bugs do ambiente de produção, onde tive a oportunidade de ter contato com diversas tecnologias e linguagens devido a vasta variedade de sistemas que a empresa possuia.</p>
+<p><img src="https://media.giphy.com/media/8MqjoSyTj7w6wrhyTB/giphy.gif" width="30px" align="center"> 🎓 Sou graduada em Análise e Desenvolvimento de Sistemas.</p>
+<p><img src="https://media.giphy.com/media/8MqjoSyTj7w6wrhyTB/giphy.gif" width="30px" align="center"> 💻 Atuei em uma equipe focada na verificação e correção de bugs do ambiente de produção, onde tive a oportunidade de ter contato com diversas tecnologias e linguagens devido a vasta variedade de sistemas que a empresa possuia. Hoje atuo com Back e Front, criação de testes unitários e validações.</p>
 <p><img src="https://media.giphy.com/media/8MqjoSyTj7w6wrhyTB/giphy.gif" width="30px" align="center"> 🙌  Sempre em busca de desafios para desenvolver minhas skills.</p>
 <p><img src="https://media.giphy.com/media/8MqjoSyTj7w6wrhyTB/giphy.gif" width="30px" align="center"> 💡 No momento estou estudando Front-End e um pouco de Mobile.</p>
 </div>
